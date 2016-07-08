@@ -1,4 +1,4 @@
-To install all dependencies execute command:
+To install all dependencies from package.json file execute command:
 npm install
 
 To run the application in the console execute:
