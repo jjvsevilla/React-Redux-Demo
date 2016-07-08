@@ -1,0 +1,8 @@
+To install all dependencies execute command:
+npm install
+
+To run the application in the console execute:
+npm start -s
+
+WebPack
+bundle all the javascript files
